@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.room-image{
+    width: 400px;
+    height: 300px;
+}
+#room-card{
+    width: 405px !important;
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    transition: transform 0.25 ease-out;
+
+}
+#room-card:hover{
+    cursor: pointer;
+   transform: scale(1.06);
+    
+}
+

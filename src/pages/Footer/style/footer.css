@@ -1,0 +1,24 @@
+hr{
+    border: 1px solid blue !important;
+}
+
+.my-text{
+    color: blue;
+    font-family: 'Roboto', sans-serif; 
+}
+a{
+    color: blue;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif; 
+}
+li{
+    list-style-type: none;
+}
+.foot{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+}
+.capstone{
+   
+
+}
